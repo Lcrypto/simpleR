@@ -1,3 +1,5 @@
+In accompany with this oustanding toolbox for Regression i recommend to read famous book "Gaussian Processes for Machine Learning
+Carl Edward Rasmussen and Christopher K. I. Williams The MIT Press, 2006. ISBN 0-262-18253-X." http://www.gaussianprocess.org/gpml/chapters/RW.pdf
 %
 % simpleR: SIMPLE REGRESSION DEMO.
 %        Version: 3.1.1
